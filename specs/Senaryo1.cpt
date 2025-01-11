@@ -1,0 +1,23 @@
+Created by testinium on 10.01.2025
+
+This is a concept file with following syntax for each concept.
+# 100 sayısının ekrana yazılması
+
+* Click on "1Button"
+* Click on "0Button"
+* Click on "0Button"
+
+# Çarpı butonuna tıklanır
+
+* Click on "*Button"
+
+# 100 rakamının %5 yatırım faizi eklenmiş hali hesaplanır ve ekranda 105 sayısı görüntülenir.
+
+* Click on "1Button"
+* Click on ",Button"
+* Click on "0Button"
+* Click on "5Button"
+* Click on "=Button"
+* The text of the "Conclusion" element assert "= 105"
+
+

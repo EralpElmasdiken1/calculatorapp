@@ -1,0 +1,71 @@
+Created by testinium on 10.01.2025
+
+This is a concept file with following syntax for each concept.
+# 1000 sayısı ekrana yazılır
+
+* Click on "1Button"
+* Click on "0Button"
+* Click on "0Button"
+* Click on "0Button"
+
+# Çıkarma işlemi için - butonuna tıklanır.
+
+* Click on "-Button"
+
+# 800 sayısı yazılır
+
+* Click on "8Button"
+* Click on "0Button"
+* Click on "0Button"
+
+# Eşittir butonuna tıklanır ve sonucun 200 olduğu teyit edilir.
+
+* Click on "=Button"
+* The text of the "Conclusion" element assert "= 200"
+
+# Eşittir butonuna tıklanır ve sonucun 0 olduğu teyit edilir.
+
+* Click on "=Button"
+* The text of the "Conclusion" element assert "= 0"
+
+# 1200 sayısı ekrana yazılır
+
+* Click on "1Button"
+* Click on "2Button"
+* Click on "0Button"
+* Click on "0Button"
+
+# Eşittir butonuna tıklanır ve sonucun -200 olduğu teyit edilir.
+
+* Click on "=Button"
+* The text of the "Conclusion" element assert "= -200"
+
+# Resetleme için AC butonuna tıklanır.
+
+* Click on "ACButton"
+
+# 2000 sayısı ekrana yazılır
+
+* Click on "2Button"
+* Click on "0Button"
+* Click on "0Button"
+* Click on "0Button"
+
+# Eşittir butonuna tıklanır ve sonucun 1000 olduğu teyit edilir.
+
+* Click on "=Button"
+* The text of the "Conclusion" element assert "= 1000"
+
+# 1500 sayısı ekrana yazılır
+
+* Click on "1Button"
+* Click on "5Button"
+* Click on "0Button"
+* Click on "0Button"
+
+# 500 sayısı yazılır
+
+* Click on "5Button"
+* Click on "0Button"
+* Click on "0Button"
+

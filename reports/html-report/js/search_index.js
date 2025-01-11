@@ -1,0 +1,1 @@
+var index = {"Tags":{},"Specs":{"Product Add To Cart And Check":["specs/ProductAddToCart.html"]}};

@@ -1,0 +1,269 @@
+{"logLevel":"debug","message":"multithreading is set to false"}
+{"logLevel":"debug","message":"Using reflection to scan dependencies for gauge implementations..."}
+SLF4J(W): No SLF4J providers were found.
+SLF4J(W): Defaulting to no-operation (NOP) logger implementation
+SLF4J(W): See https://www.slf4j.org/codes.html#noProviders for further details.
+{"logLevel":"debug","message":"gauge-java took 1070milliseconds to load and scan. This should be less than 'runner_connection_timeout' config value."}
+{"logLevel":"debug","message":"run 'gauge config runner_connection_timeout' and verify that it is < 1070"}
+{"logLevel":"debug","message":"starting gRPC server..."}
+{"logLevel":"debug","message":"started gRPC server on port 40401"}
+{"logLevel":"info","message":"Listening on port:40401"}
+{"logLevel":"debug","message":"Scanning packages for steps"}
+{"logLevel":"debug","message":"Comparing 'imp.GetAttributeImp.getTextOfElmWithWait' and 'imp.GetAttributeImp.getTextOfElmWithWait'"}
+{"logLevel":"debug","message":"Found Get text of {} and store it in scenario store with {} and default wait in current project scope."}
+{"logLevel":"debug","message":"Comparing 'imp.GetAttributeImp.getAttributeOfElmWithWait' and 'imp.GetAttributeImp.getAttributeOfElmWithWait'"}
+{"logLevel":"debug","message":"Found Get {} of {} and store it in scenario store with {} and default wait in current project scope."}
+{"logLevel":"debug","message":"Comparing 'imp.GetAttributeImp.getTextOfElmWithWait' and 'imp.GetAttributeImp.getTextOfElmWithWait'"}
+{"logLevel":"debug","message":"Found Wait {} and poling ever {} millis  presence of {} then get text and store it in scenario store with {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'imp.GetAttributeImp.getTextOfElmWithWait' and 'imp.GetAttributeImp.getTextOfElmWithWait'"}
+{"logLevel":"debug","message":"Found Wait {} presence of {} then get text and store it in scenario store with {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'imp.ActionsImp.moveToElm' and 'imp.ActionsImp.moveToElm'"}
+{"logLevel":"debug","message":"Found Move the mouse to the middle of the {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'imp.DisplayImp.isDisplayedImp' and 'imp.DisplayImp.isDisplayedImp'"}
+{"logLevel":"debug","message":"Found {} element is Displayed in current project scope."}
+{"logLevel":"debug","message":"Comparing 'imp.SelectImp.selectByIndexImp' and 'imp.SelectImp.selectByIndexImp'"}
+{"logLevel":"debug","message":"Found Select by index = {} in {} selector in current project scope."}
+{"logLevel":"debug","message":"Comparing 'imp.SelectImp.selectByIndexImp' and 'imp.SelectImp.selectByIndexImp'"}
+{"logLevel":"debug","message":"Found Wait {} with poling every {} presence of {} then select {} of its option in current project scope."}
+{"logLevel":"debug","message":"Comparing 'imp.SelectImp.selectByIndexImp' and 'imp.SelectImp.selectByIndexImp'"}
+{"logLevel":"debug","message":"Found Wait {} presence of {} then select {} of its option in current project scope."}
+{"logLevel":"debug","message":"Comparing 'imp.ClickImp.clickImp' and 'imp.ClickImp.clickImp'"}
+{"logLevel":"debug","message":"Found Click on {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'imp.ClickImp.clickImp' and 'imp.ClickImp.clickImp'"}
+{"logLevel":"debug","message":"Found Wait for {} second with sleep in {} millis presence of {} then click in current project scope."}
+{"logLevel":"debug","message":"Comparing 'imp.ClickImp.clickImp' and 'imp.ClickImp.clickImp'"}
+{"logLevel":"debug","message":"Found Wait for {} second presence of {} then click in current project scope."}
+{"logLevel":"debug","message":"Comparing 'imp.WindowNavigation.back' and 'imp.WindowNavigation.back'"}
+{"logLevel":"debug","message":"Found Click to go back in current project scope."}
+{"logLevel":"debug","message":"Comparing 'imp.LaunchBrowserImp.lunchApp' and 'imp.LaunchBrowserImp.lunchApp'"}
+{"logLevel":"debug","message":"Found Open {} and get base url in current project scope."}
+{"logLevel":"debug","message":"Comparing 'imp.LaunchBrowserImp.lunchApp' and 'imp.LaunchBrowserImp.lunchApp'"}
+{"logLevel":"debug","message":"Found Open {} and get {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'imp.LaunchBrowserImp.lunchApp' and 'imp.LaunchBrowserImp.lunchApp'"}
+{"logLevel":"debug","message":"Found Open browser and get base url in current project scope."}
+{"logLevel":"debug","message":"Comparing 'imp.SendKeysImp.sendActionsImp' and 'imp.SendKeysImp.sendActionsImp'"}
+{"logLevel":"debug","message":"Found Send {} action to element with key {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'imp.SelectImp.multipleSelectByVisableTexesImp' and 'imp.SelectImp.multipleSelectByVisableTexesImp'"}
+{"logLevel":"debug","message":"Found Multiple select below visible texes of {} option {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'imp.AssertImp.assertURLImp' and 'imp.AssertImp.assertURLImp'"}
+{"logLevel":"debug","message":"Found Assert current URL with {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'imp.ClickImp.ifExistsClickXIfNotClickYImp' and 'imp.ClickImp.ifExistsClickXIfNotClickYImp'"}
+{"logLevel":"debug","message":"Found Wait for {} second presence of {} then click, if not exists click {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'imp.ClickImp.ifExistsClickXIfNotClickYImp' and 'imp.ClickImp.ifExistsClickXIfNotClickYImp'"}
+{"logLevel":"debug","message":"Found Click if exists on {}if not click {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'imp.GetAttributeImp.getAttributeOfElmWithoutWait' and 'imp.GetAttributeImp.getAttributeOfElmWithoutWait'"}
+{"logLevel":"debug","message":"Found Get {} of {} and store it in scenario store with {} without any wait in current project scope."}
+{"logLevel":"debug","message":"Comparing 'imp.SendKeysImp.sendKeysWithScenarioStoreStep' and 'imp.SendKeysImp.sendKeysWithScenarioStoreStep'"}
+{"logLevel":"debug","message":"Found Type value from scenario store with {} into {} element in current project scope."}
+{"logLevel":"debug","message":"Comparing 'imp.PresenceImp.presenceWaitImp' and 'imp.PresenceImp.presenceWaitImp'"}
+{"logLevel":"debug","message":"Found Presence on {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'imp.ClickImp.clickWithOutWaitImp' and 'imp.ClickImp.clickWithOutWaitImp'"}
+{"logLevel":"debug","message":"Found Click on {} without wait in current project scope."}
+{"logLevel":"debug","message":"Comparing 'imp.DataTableImp.dataTableStore' and 'imp.DataTableImp.dataTableStore'"}
+{"logLevel":"debug","message":"Found Get {} table list map according to {} and store it in suit data store with {} key in current project scope."}
+{"logLevel":"debug","message":"Comparing 'imp.DataTableImp.dataTableStore' and 'imp.DataTableImp.dataTableStore'"}
+{"logLevel":"debug","message":"Found Get {} table list map according to below headers and store it in suit data store with {} key {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'imp.ScrollImp.scrollTopOfThePage' and 'imp.ScrollImp.scrollTopOfThePage'"}
+{"logLevel":"debug","message":"Found Scroll to top of the page in current project scope."}
+{"logLevel":"debug","message":"Comparing 'imp.SelectImp.multipleSelectByIndexImp' and 'imp.SelectImp.multipleSelectByIndexImp'"}
+{"logLevel":"debug","message":"Found Multiple select below indexes of {} option {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'imp.WindowNavigation.refresh' and 'imp.WindowNavigation.refresh'"}
+{"logLevel":"debug","message":"Found Click refresh in current project scope."}
+{"logLevel":"debug","message":"Comparing 'imp.SendKeysImp.sendKeysImp' and 'imp.SendKeysImp.sendKeysImp'"}
+{"logLevel":"debug","message":"Found Type {} into {} element in current project scope."}
+{"logLevel":"debug","message":"Comparing 'imp.SendKeysImp.sendKeysImp' and 'imp.SendKeysImp.sendKeysImp'"}
+{"logLevel":"debug","message":"Found Wait for {} second presence of {} with {} pooling and type {} into  it in current project scope."}
+{"logLevel":"debug","message":"Comparing 'imp.SendKeysImp.sendKeysImp' and 'imp.SendKeysImp.sendKeysImp'"}
+{"logLevel":"debug","message":"Found Wait for {} second presence of {} and type {} into  it in current project scope."}
+{"logLevel":"debug","message":"Comparing 'imp.SendKeysImp.sendKeysWithKeyboardImp' and 'imp.SendKeysImp.sendKeysWithKeyboardImp'"}
+{"logLevel":"debug","message":"Found Type {} into {}. element with {} key in current project scope."}
+{"logLevel":"debug","message":"Comparing 'imp.SendKeysImp.sendKeysWithKeyboardImp' and 'imp.SendKeysImp.sendKeysWithKeyboardImp'"}
+{"logLevel":"debug","message":"Found Type {} into {} element with keyboard in current project scope."}
+{"logLevel":"debug","message":"Comparing 'imp.ActionsImp.sendKeysWithActions' and 'imp.ActionsImp.sendKeysWithActions'"}
+{"logLevel":"debug","message":"Found Type {} in the {} field with keyboard in current project scope."}
+{"logLevel":"debug","message":"Comparing 'imp.ActionsImp.rightClickWithAction' and 'imp.ActionsImp.rightClickWithAction'"}
+{"logLevel":"debug","message":"Found Perform a context-click at middle of the {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'imp.ActionsImp.rightClickWithAction' and 'imp.ActionsImp.rightClickWithAction'"}
+{"logLevel":"debug","message":"Found Perform a context-click at mouse current location in current project scope."}
+{"logLevel":"debug","message":"Comparing 'imp.SelectImp.selectByVisibleTextFromListElementImp' and 'imp.SelectImp.selectByVisibleTextFromListElementImp'"}
+{"logLevel":"debug","message":"Found Select by visible text = {} of {}. element in {} selector in current project scope."}
+{"logLevel":"debug","message":"Comparing 'imp.WindowNavigation.forward' and 'imp.WindowNavigation.forward'"}
+{"logLevel":"debug","message":"Found Click to go forward in current project scope."}
+{"logLevel":"debug","message":"Comparing 'imp.ClickImp.clickIfExistsImp' and 'imp.ClickImp.clickIfExistsImp'"}
+{"logLevel":"debug","message":"Found Click if exists if so click on {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'imp.SendKeysImp.sendKeysCharByCharImp' and 'imp.SendKeysImp.sendKeysCharByCharImp'"}
+{"logLevel":"debug","message":"Found Type {} char by char into {} element in current project scope."}
+{"logLevel":"debug","message":"Comparing 'imp.SelectImp.selectByVisibleTextImp' and 'imp.SelectImp.selectByVisibleTextImp'"}
+{"logLevel":"debug","message":"Found Select by visible text = {} in {} selector in current project scope."}
+{"logLevel":"debug","message":"Comparing 'imp.SelectImp.selectByIndexImp' and 'imp.SelectImp.selectByVisibleTextImp'"}
+{"logLevel":"debug","message":"Comparing 'imp.SelectImp.selectByValueImp' and 'imp.SelectImp.selectByVisibleTextImp'"}
+{"logLevel":"debug","message":"Comparing 'imp.SelectImp.selectByVisibleTextImp' and 'imp.SelectImp.selectByVisibleTextImp'"}
+{"logLevel":"debug","message":"Found Wait {} with poling every {} presence of {} then select {} of its option in current project scope."}
+{"logLevel":"debug","message":"Comparing 'imp.SelectImp.selectByIndexImp' and 'imp.SelectImp.selectByVisibleTextImp'"}
+{"logLevel":"debug","message":"Comparing 'imp.SelectImp.selectByValueImp' and 'imp.SelectImp.selectByVisibleTextImp'"}
+{"logLevel":"debug","message":"Comparing 'imp.SelectImp.selectByVisibleTextImp' and 'imp.SelectImp.selectByVisibleTextImp'"}
+{"logLevel":"debug","message":"Found Wait {} presence of {} then select {} of its option in current project scope."}
+{"logLevel":"debug","message":"Comparing 'imp.ActionsImp.release' and 'imp.ActionsImp.release'"}
+{"logLevel":"debug","message":"Found Release the depressed left mouse button in current project scope."}
+{"logLevel":"debug","message":"Comparing 'imp.ActionsImp.release' and 'imp.ActionsImp.release'"}
+{"logLevel":"debug","message":"Found Release the depressed left mouse button, in the middle of the '{}' in current project scope."}
+{"logLevel":"debug","message":"Comparing 'imp.DataTableImp.dataTable' and 'imp.DataTableImp.dataTable'"}
+{"logLevel":"debug","message":"Found Get {} table list map according to {} and store it in scenario data store with {} key in current project scope."}
+{"logLevel":"debug","message":"Comparing 'imp.ActionsImp.clickWithActions' and 'imp.ActionsImp.clickWithActions'"}
+{"logLevel":"debug","message":"Found Click at the offset x={},y={} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'imp.ActionsImp.clickWithActions' and 'imp.ActionsImp.clickWithActions'"}
+{"logLevel":"debug","message":"Found Click at {} field with keyboard in current project scope."}
+{"logLevel":"debug","message":"Comparing 'imp.DataTableImp.dataTable' and 'imp.DataTableImp.dataTable'"}
+{"logLevel":"debug","message":"Found Get {} table list map according to below headers and store it in scenario data store with {} key {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'imp.ActionsImp.clickWithActions' and 'imp.ActionsImp.clickWithActions'"}
+{"logLevel":"debug","message":"Found Clicked at the current mouse location. in current project scope."}
+{"logLevel":"debug","message":"Comparing 'imp.ActionsImp.drugAndDropWithAction' and 'imp.ActionsImp.drugAndDropWithAction'"}
+{"logLevel":"debug","message":"Found Click and hold at {} and moves by a offset x={}, y={} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'imp.ActionsImp.drugAndDropWithAction' and 'imp.ActionsImp.drugAndDropWithAction'"}
+{"logLevel":"debug","message":"Found Click and hold at {} and move to the location of the {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'imp.SelectImp.selectByValueImp' and 'imp.SelectImp.selectByValueImp'"}
+{"logLevel":"debug","message":"Found Select by value = {} in {} selector in current project scope."}
+{"logLevel":"debug","message":"Comparing 'imp.AssertImp.assertTextWithScenarioStoreStep' and 'imp.AssertImp.assertTextWithScenarioStoreStep'"}
+{"logLevel":"debug","message":"Found The text of the {} element assert with scenario store {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'imp.SelectImp.selectByIndexImp' and 'imp.SelectImp.selectByValueImp'"}
+{"logLevel":"debug","message":"Comparing 'imp.SelectImp.selectByValueImp' and 'imp.SelectImp.selectByValueImp'"}
+{"logLevel":"debug","message":"Found Wait {} with poling every {} presence of {} then select {} of its option in current project scope."}
+{"logLevel":"debug","message":"Comparing 'imp.SelectImp.selectByIndexImp' and 'imp.SelectImp.selectByValueImp'"}
+{"logLevel":"debug","message":"Comparing 'imp.SelectImp.selectByValueImp' and 'imp.SelectImp.selectByValueImp'"}
+{"logLevel":"debug","message":"Found Wait {} presence of {} then select {} of its option in current project scope."}
+{"logLevel":"debug","message":"Comparing 'imp.ClickImp.clickWithJavaScriptImp' and 'imp.ClickImp.clickWithJavaScriptImp'"}
+{"logLevel":"debug","message":"Found Click at {} with javaScript in current project scope."}
+{"logLevel":"debug","message":"Comparing 'imp.ActionsImp.clickAndHoldWithActions' and 'imp.ActionsImp.clickAndHoldWithActions'"}
+{"logLevel":"debug","message":"Found Clicked and hold  at the current mouse location. in current project scope."}
+{"logLevel":"debug","message":"Comparing 'imp.ActionsImp.clickAndHoldWithActions' and 'imp.ActionsImp.clickAndHoldWithActions'"}
+{"logLevel":"debug","message":"Found Click and hold at {} field with keyboard in current project scope."}
+{"logLevel":"debug","message":"Comparing 'imp.AssertImp.assertTextImp' and 'imp.AssertImp.assertTextImp'"}
+{"logLevel":"debug","message":"Found The text of the {} element assert {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'imp.GetAttributeImp.getTextOfElmWithoutWait' and 'imp.GetAttributeImp.getTextOfElmWithoutWait'"}
+{"logLevel":"debug","message":"Found Get text of {} and store it in scenario store with {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'imp.GetAttributeImp.getSizeOfElement' and 'imp.GetAttributeImp.getSizeOfElement'"}
+{"logLevel":"debug","message":"Found Get size of {} and store it scenario store with {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'imp.DisplayImp.elementNotDisplayedImp' and 'imp.DisplayImp.elementNotDisplayedImp'"}
+{"logLevel":"debug","message":"Found Is Not Display the {} element in current project scope."}
+{"logLevel":"debug","message":"Comparing 'imp.JavaScriptImp.executeJavaScriptScript' and 'imp.JavaScriptImp.executeJavaScriptScript'"}
+{"logLevel":"debug","message":"Found Execute javascript {} on browser in current project scope."}
+{"logLevel":"debug","message":"Comparing 'imp.WaitImp.waitForMiliSeconds' and 'imp.WaitImp.waitForMiliSeconds'"}
+{"logLevel":"debug","message":"Found Wait {} ms in current project scope."}
+{"logLevel":"debug","message":"Comparing 'imp.ActionsImp.doubleClickWithActions' and 'imp.ActionsImp.doubleClickWithActions'"}
+{"logLevel":"debug","message":"Found Double click at {} field with keyboard in current project scope."}
+{"logLevel":"debug","message":"Comparing 'imp.ActionsImp.doubleClickWithActions' and 'imp.ActionsImp.doubleClickWithActions'"}
+{"logLevel":"debug","message":"Found Double clicked at the current mouse location. in current project scope."}
+{"logLevel":"debug","message":"Comparing 'imp.PresenceImp.isElementPresent' and 'imp.PresenceImp.isElementPresent'"}
+{"logLevel":"debug","message":"Found Check if {} element is present in current project scope."}
+{"logLevel":"debug","message":"Comparing 'imp.ScrollImp.scrollBottomOfThePage' and 'imp.ScrollImp.scrollBottomOfThePage'"}
+{"logLevel":"debug","message":"Found Scroll to bottom of the page in current project scope."}
+{"logLevel":"debug","message":"Comparing 'imp.ScrollImp.scrollBottomOfThePage' and 'imp.ScrollImp.scrollBottomOfThePage'"}
+{"logLevel":"debug","message":"Found Scroll to {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'imp.ScrollImp.scrollBottomOfThePage' and 'imp.ScrollImp.scrollBottomOfThePage'"}
+{"logLevel":"debug","message":"Found Scroll to coordinate x= {}, y= {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'imp.AssertImp.assertNotTextFromListImp' and 'imp.AssertImp.assertNotTextFromListImp'"}
+{"logLevel":"debug","message":"Found The {}. text of the {} element assert not equals to {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'imp.GetAttributeImp.getInnerTextOfElmWithWait' and 'imp.GetAttributeImp.getInnerTextOfElmWithWait'"}
+{"logLevel":"debug","message":"Found Get inner text of {} and store it in scenario store with {} and default wait in current project scope."}
+{"logLevel":"debug","message":"Comparing 'imp.DataTableImp.dataTableSpec' and 'imp.DataTableImp.dataTableSpec'"}
+{"logLevel":"debug","message":"Found Get {} table list map according to below headers and store it in spec data store with {} key {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'imp.DataTableImp.dataTableSpec' and 'imp.DataTableImp.dataTableSpec'"}
+{"logLevel":"debug","message":"Found Get {} table list map according to {} and store it in spec data store with {} key in current project scope."}
+{"logLevel":"debug","message":"Comparing 'imp.ActionsImp.moveByOffsetWithAction' and 'imp.ActionsImp.moveByOffsetWithAction'"}
+{"logLevel":"debug","message":"Found Move the mouse from its current position  to x={}, y={} offset in current project scope."}
+{"logLevel":"debug","message":"Comparing 'imp.ActionsImp.moveByOffsetWithAction' and 'imp.ActionsImp.moveByOffsetWithAction'"}
+{"logLevel":"debug","message":"Found Move the mouse to an offset x= {},y= {} from the {}'s in-view center point in current project scope."}
+{"logLevel":"debug","message":"Comparing 'imp.AssertImp.assertTextFromListImp' and 'imp.AssertImp.assertTextFromListImp'"}
+{"logLevel":"debug","message":"Found The {}. text of the {} element assert {} in current project scope."}
+{"logLevel":"debug","message":"Scanning packages for hooks"}
+{"logLevel":"debug","message":"Scanned steps (using static parsing + reflections): "}
+{"logLevel":"debug","message":"\tPerform a context-click at mouse current location : public void rightClickWithAction()"}
+{"logLevel":"debug","message":"\tOpen {} and get base url : public void lunchApp(String browser)"}
+{"logLevel":"debug","message":"\tOpen browser and get base url : public void lunchApp()"}
+{"logLevel":"debug","message":"\tType value from scenario store with {} into {} element : public void sendKeysWithScenarioStoreStep(String storeKey, String jsonKey)"}
+{"logLevel":"debug","message":"\tScroll to {} : public void scrollBottomOfThePage(String jsonKey)"}
+{"logLevel":"debug","message":"\tGet {} table list map according to {} and store it in spec data store with {} key : public void dataTableSpec(String jsonKey, String jsonKeyOfHeader, String key)"}
+{"logLevel":"debug","message":"\tGet {} of {} and store it in scenario store with {} and default wait : public void getAttributeOfElmWithWait(String attribute, String jsonKey, String key)"}
+{"logLevel":"debug","message":"\tType {} into {} element : public void sendKeysImp(String text, String jsonKey)"}
+{"logLevel":"debug","message":"\tSelect by visible text = {} in {} selector : public void selectByVisibleTextImp(String value, String jsonKey)"}
+{"logLevel":"debug","message":"\tWait {} and poling ever {} millis  presence of {} then get text and store it in scenario store with {} : public void getTextOfElmWithWait(long timeout, long polingWait, String jsonKey, String key)"}
+{"logLevel":"debug","message":"\tScroll to bottom of the page : public void scrollBottomOfThePage()"}
+{"logLevel":"debug","message":"\tClick and hold at {} and moves by a offset x={}, y={} : public void drugAndDropWithAction(String sourceElmJsonKey, int x, int y)"}
+{"logLevel":"debug","message":"\tClicked at the current mouse location. : public void clickWithActions()"}
+{"logLevel":"debug","message":"\tClicked and hold  at the current mouse location. : public void clickAndHoldWithActions()"}
+{"logLevel":"debug","message":"\tClick at {} field with keyboard : public void clickWithActions(String jsonKey)"}
+{"logLevel":"debug","message":"\tWait {} with poling every {} presence of {} then select {} of its option : public void selectByIndexImp(long timeout, long millis, String jsonKey, int i)"}
+{"logLevel":"debug","message":"\tGet text of {} and store it in scenario store with {} and default wait : public void getTextOfElmWithWait(String jsonKey, String key)"}
+{"logLevel":"debug","message":"\tClick on {} : public void clickImp(String jsonKey)"}
+{"logLevel":"debug","message":"\tWait for {} second presence of {} then click, if not exists click {} : public void ifExistsClickXIfNotClickYImp(long timeout, String xJsonKey, String yJsonKey)"}
+{"logLevel":"debug","message":"\tWait {} presence of {} then get text and store it in scenario store with {} : public void getTextOfElmWithWait(long timeout, String jsonKey, String key)"}
+{"logLevel":"debug","message":"\tGet size of {} and store it scenario store with {} : public void getSizeOfElement(String jsonKey, String key)"}
+{"logLevel":"debug","message":"\tThe {}. text of the {} element assert {} : public void assertTextFromListImp(int listNum, String locatorValue, String text)"}
+{"logLevel":"debug","message":"\tType {} into {} element with keyboard : public void sendKeysWithKeyboardImp(String text, String jsonKey)"}
+{"logLevel":"debug","message":"\tType {} char by char into {} element : public void sendKeysCharByCharImp(String jsonKey, String text)"}
+{"logLevel":"debug","message":"\tClick if exists on {}if not click {} : public void ifExistsClickXIfNotClickYImp(String xJsonKey, String yJsonKey)"}
+{"logLevel":"debug","message":"\tGet {} of {} and store it in scenario store with {} without any wait : public void getAttributeOfElmWithoutWait(String attribute, String jsonKey, String key)"}
+{"logLevel":"debug","message":"\tGet inner text of {} and store it in scenario store with {} and default wait : public void getInnerTextOfElmWithWait(String jsonKey, String key)"}
+{"logLevel":"debug","message":"\tOpen {} and get {} : public void lunchApp(String browser, String url)"}
+{"logLevel":"debug","message":"\tClick at the offset x={},y={} : public void clickWithActions(int x, int y)"}
+{"logLevel":"debug","message":"\tType {} into {}. element with {} key : public void sendKeysWithKeyboardImp(String text, int num, String jsonKey)"}
+{"logLevel":"debug","message":"\tWait for {} second presence of {} and type {} into  it : public void sendKeysImp(long sec, String jsonKey, String text)"}
+{"logLevel":"debug","message":"\tThe text of the {} element assert {} : public void assertTextImp(String locatorValue, String text)"}
+{"logLevel":"debug","message":"\tCheck if {} element is present : public boolean isElementPresent(String jsonKey)"}
+{"logLevel":"debug","message":"\tClick to go forward : public void forward()"}
+{"logLevel":"debug","message":"\tGet {} table list map according to {} and store it in scenario data store with {} key : public void dataTable(String jsonKey, String jsonKeyOfHeader, String key)"}
+{"logLevel":"debug","message":"\tSelect by visible text = {} of {}. element in {} selector : public void selectByVisibleTextFromListElementImp(String value, int num, String jsonKey)"}
+{"logLevel":"debug","message":"\tMove the mouse from its current position  to x={}, y={} offset : public void moveByOffsetWithAction(int x, int y)"}
+{"logLevel":"debug","message":"\tClick refresh : public void refresh()"}
+{"logLevel":"debug","message":"\tAssert current URL with {} : public void assertURLImp(String URL)"}
+{"logLevel":"debug","message":"\tMove the mouse to an offset x= {},y= {} from the {}'s in-view center point : public void moveByOffsetWithAction(String jsonKey, int x, int y)"}
+{"logLevel":"debug","message":"\tWait for {} second with sleep in {} millis presence of {} then click : public void clickImp(String jsonKey, long timeout, long sleepInMillis)"}
+{"logLevel":"debug","message":"\tGet text of {} and store it in scenario store with {} : public void getTextOfElmWithoutWait(String jsonKey, String key)"}
+{"logLevel":"debug","message":"\tMove the mouse to the middle of the {} : public void moveToElm(String jsonKey)"}
+{"logLevel":"debug","message":"\tGet {} table list map according to below headers and store it in suit data store with {} key {} : public void dataTableStore(String jsonKey, String key, Table table)"}
+{"logLevel":"debug","message":"\tClick and hold at {} field with keyboard : public void clickAndHoldWithActions(String jsonKey)"}
+{"logLevel":"debug","message":"\tThe {}. text of the {} element assert not equals to {} : public void assertNotTextFromListImp(int listNum, String locatorValue, String text)"}
+{"logLevel":"debug","message":"\tType {} in the {} field with keyboard : public void sendKeysWithActions(String text, String jsonKey)"}
+{"logLevel":"debug","message":"\tExecute javascript {} on browser : public void executeJavaScriptScript(String script)"}
+{"logLevel":"debug","message":"\tWait for {} second presence of {} with {} pooling and type {} into  it : public void sendKeysImp(long timeout, long poolingWait, String jsonKey, String text)"}
+{"logLevel":"debug","message":"\tMultiple select below indexes of {} option {} : public void multipleSelectByIndexImp(String jsonKey, Table table)"}
+{"logLevel":"debug","message":"\tGet {} table list map according to below headers and store it in scenario data store with {} key {} : public void dataTable(String jsonKey, String key, Table table)"}
+{"logLevel":"debug","message":"\tMultiple select below visible texes of {} option {} : public void multipleSelectByVisableTexesImp(String jsonKey, Table table)"}
+{"logLevel":"debug","message":"\tThe text of the {} element assert with scenario store {} : public void assertTextWithScenarioStoreStep(String jsonKey, String storeKey)"}
+{"logLevel":"debug","message":"\tScroll to top of the page : public void scrollTopOfThePage()"}
+{"logLevel":"debug","message":"\tPerform a context-click at middle of the {} : public void rightClickWithAction(String jsonKey)"}
+{"logLevel":"debug","message":"\tPresence on {} : public void presenceWaitImp(String jsonKey)"}
+{"logLevel":"debug","message":"\tClick on {} without wait : public void clickWithOutWaitImp(String jsonKey)"}
+{"logLevel":"debug","message":"\tGet {} table list map according to {} and store it in suit data store with {} key : public void dataTableStore(String jsonKey, String jsonKeyOfHeader, String key)"}
+{"logLevel":"debug","message":"\tSend {} action to element with key {} : public void sendActionsImp(String action, String jsonKey)"}
+{"logLevel":"debug","message":"\tRelease the depressed left mouse button, in the middle of the '{}' : public void release(String jsonKey)"}
+{"logLevel":"debug","message":"\tSelect by index = {} in {} selector : public void selectByIndexImp(int i, String jsonKey)"}
+{"logLevel":"debug","message":"\tIs Not Display the {} element : public void elementNotDisplayedImp(String element)"}
+{"logLevel":"debug","message":"\tClick at {} with javaScript : public void clickWithJavaScriptImp(String jsonKey)"}
+{"logLevel":"debug","message":"\tClick if exists if so click on {} : public void clickIfExistsImp(String jsonKey)"}
+{"logLevel":"debug","message":"\t{} element is Displayed : public void isDisplayedImp(String text)"}
+{"logLevel":"debug","message":"\tDouble clicked at the current mouse location. : public void doubleClickWithActions()"}
+{"logLevel":"debug","message":"\tDouble click at {} field with keyboard : public void doubleClickWithActions(String jsonKey)"}
+{"logLevel":"debug","message":"\tRelease the depressed left mouse button : public void release()"}
+{"logLevel":"debug","message":"\tSelect by value = {} in {} selector : public void selectByValueImp(String value, String jsonKey)"}
+{"logLevel":"debug","message":"\tClick and hold at {} and move to the location of the {} : public void drugAndDropWithAction(String sourceElmJsonKey, String targetElmJsonKey)"}
+{"logLevel":"debug","message":"\tWait {} ms : public void waitForMiliSeconds(int ms)"}
+{"logLevel":"debug","message":"\tWait {} presence of {} then select {} of its option : public void selectByIndexImp(long timeout, String jsonKey, int i)"}
+{"logLevel":"debug","message":"\tGet {} table list map according to below headers and store it in spec data store with {} key {} : public void dataTableSpec(String jsonKey, String key, Table table)"}
+{"logLevel":"debug","message":"\tScroll to coordinate x= {}, y= {} : public void scrollBottomOfThePage(int x, int y)"}
+{"logLevel":"debug","message":"\tClick to go back : public void back()"}
+{"logLevel":"debug","message":"\tWait for {} second presence of {} then click : public void clickImp(String jsonKey, long timeout)"}
+{"logLevel":"debug","message":"Executing 'Open {} and get {}' using 'class imp.LaunchBrowserImp.lunchApp"}
+Nov 11, 2024 2:46:47 PM org.openqa.selenium.remote.tracing.opentelemetry.OpenTelemetryTracer createTracer
+INFO: Using OpenTelemetry for tracing
+[1;32m[INFO ] 2024-11-11 14:46:48.209 BaseBrowser:18 - CHROME launched
+[m[1;32m[INFO ] 2024-11-11 14:46:48.667 LaunchBrowserImp:21 - chrome browser launched and https://identity.test.misyon.com/auth/realms/misyon/protocol/openid-connect/auth?client_id=fi-web-suite&redirect_uri=https%3A%2F%2Fmisyon.test.misyon.com%2F&state=5e09e947-7f27-4337-81ad-ca45b57f1b95&response_mode=fragment&response_type=code&scope=openid&nonce=d10e5ef4-07f7-49a5-8b2a-d82cd669cd45 is opened
+[m{"logLevel":"debug","message":"Executing 'Type {} into {} element' using 'class imp.SendKeysImp.sendKeysImp"}
+[1;32m[INFO ] 2024-11-11 14:46:48.679 Configuration:37 - Properties read finished.
+[m{"logLevel":"debug","message":"Executing 'Type {} into {} element' using 'class imp.SendKeysImp.sendKeysImp"}
+{"logLevel":"debug","message":"Executing 'Click on {}' using 'class imp.ClickImp.clickImp"}
+[1;32m[INFO ] 2024-11-11 14:46:49.342 ClickHelper:23 - Clicked on loginButton
+[m{"logLevel":"debug","message":"Executing 'Wait {} ms' using 'class imp.WaitImp.waitForMiliSeconds"}
+{"logLevel":"debug","message":"Executing 'Wait {} ms' using 'class imp.WaitImp.waitForMiliSeconds"}
+{"logLevel":"debug","message":"Executing 'The text of the {} element assert {}' using 'class imp.AssertImp.assertTextImp"}
+Gtk-Message: 14:47:15.097: Failed to load module "canberra-gtk-module"

@@ -1,0 +1,42 @@
+Created by testinium on 11.01.2025
+
+This is a concept file with following syntax for each concept.
+# %3 faiz ve yarım yıl sebepli 0.03 ve 0.5 çarpım işlemi yapılır.
+
+* Click on "0Button"
+* Click on ",Button"
+* Click on "0Button"
+* Click on "3Button"
+* Click on "*Button"
+* Click on "0Button"
+* Click on ",Button"
+* Click on "5Button"
+* Click on "=Button"
+
+# Ekrandaki değerin 0,02 olduğu teyit edilir.
+
+* The text of the "Conclusion" element assert "0,015"
+
+# Toplama işlemi için artı butonuna tıklanır.
+
+* Click on "+Button"
+
+# 1 ile toplama işlemi yapılır. Toplamın 1,015 olduğu kontrol edilir.
+
+* Click on "1Button"
+* The text of the "Conclusion" element assert "1,015"
+
+# Çarpım işlemi butonuna basılır.
+
+* Click on "*Button"
+
+# 500 sayısı ekrana yazılır ve sonuç için eşittir butonuna basılır.
+
+* Click on "5Button"
+* Click on "0Button"
+* Click on "0Button"
+* Click on "=Button"
+
+# Çıkan değerin 507,5 sayısına eşit olması beklenir.
+
+* The text of the "Conclusion" element assert "507,5"

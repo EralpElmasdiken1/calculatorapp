@@ -1,0 +1,18 @@
+Created by testinium on 10.01.2025
+
+This is a concept file with following syntax for each concept.
+# Catchylabs test uygulama ekranına erişim sağlanır
+
+* Open "chrome" and get "https://catchylabs-webclient.testinium.com/"
+
+# Başarılı login işlemi yapılır
+
+* Type "eralp.elmasdiken@testinium.com" into "Username" element
+* Type "Talisca1" into "Password" element
+* Click on "LoginButton"
+
+# Hesap Makinası test uygulaması ekranına gidilir.
+
+* The text of the "CalculatorGirişEkranı" element assert "OPEN CALCULATOR"
+* Click on "CalculatorGirişEkranı"
+

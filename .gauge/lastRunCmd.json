@@ -1,0 +1,8 @@
+[
+	"/opt/homebrew/bin/gauge",
+	"run",
+	"--machine-readable",
+	"--hide-suggestion",
+	"--simple-console",
+	"/Users/testinium/Downloads/Web.Automation/specs/Senaryo1.spec:3"
+]

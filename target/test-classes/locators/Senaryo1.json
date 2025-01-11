@@ -1,0 +1,71 @@
+{
+  "*Button": {
+    "locatorType": "TEXT",
+    "locatorValue": "*"
+  },
+  "-Button": {
+    "locatorType": "TEXT",
+    "locatorValue": "-"
+  },
+  "+Button": {
+    "locatorType": "TEXT",
+    "locatorValue": "+"
+  },
+  "=Button": {
+    "locatorType": "TEXT",
+    "locatorValue": "="
+  },
+  "0Button": {
+    "locatorType": "TEXT",
+    "locatorValue": "0"
+  },
+  "1Button": {
+    "locatorType": "TEXT",
+    "locatorValue": "1"
+  },
+  "ACButton": {
+    "locatorType": "TEXT",
+    "locatorValue": "AC"
+  },
+  ",Button": {
+    "locatorType": "TEXT",
+    "locatorValue": ","
+  },
+  "2Button": {
+    "locatorType": "TEXT",
+    "locatorValue": "2"
+  },
+  "3Button": {
+    "locatorType": "TEXT",
+    "locatorValue": "3"
+  },
+  "4Button": {
+    "locatorType": "TEXT",
+    "locatorValue": "4"
+  },
+  "5Button": {
+    "locatorType": "TEXT",
+    "locatorValue": "5"
+  },
+  "6Button": {
+    "locatorType": "TEXT",
+    "locatorValue": "6"
+  },
+  "7Button": {
+    "locatorType": "TEXT",
+    "locatorValue": "7"
+  },
+  "8Button": {
+    "locatorType": "TEXT",
+    "locatorValue": "8"
+  },
+  "9Button": {
+    "locatorType": "TEXT",
+    "locatorValue": "9"
+  },
+  "Conclusion": {
+    "locatorType": "CSS_SELECTOR",
+    "locatorValue": "//span[@class='css-1jxf684 r-zz5t5d r-vw2c0b r-1ff274t']"
+  }
+
+}

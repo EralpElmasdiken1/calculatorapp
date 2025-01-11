@@ -1,0 +1,10 @@
+{
+  "AC": {
+    "locatorType": "TEXT",
+    "locatorValue": "AC"
+  },
+  "loginButton": {
+    "locatorType": "css",
+    "locatorValue": "#loginButton"
+  }
+}

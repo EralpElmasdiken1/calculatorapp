@@ -1,0 +1,18 @@
+{
+  "Username": {
+    "locatorType": "CSS_SELECTOR",
+    "locatorValue": "//input[@placeholder='Username']"
+  },
+  "Password": {
+    "locatorType": "CSS_SELECTOR",
+    "locatorValue": "//input[@placeholder='Password']"
+  },
+  "LoginButton": {
+    "locatorType": "CSS_SELECTOR",
+    "locatorValue": "//div[@class='css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-h3s6tt r-1777fci r-tsynxw r-13qz1uu']"
+  },
+  "CalculatorGirişEkranı": {
+    "locatorType": "CSS_SELECTOR",
+    "locatorValue": "//div[@class='css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-h3s6tt r-1777fci r-tsynxw r-11c0sde r-13qz1uu']"
+  }
+}
